@@ -3,3 +3,6 @@ authors = ["Carlos Gustavo Ruiz"]
 multilingual = false
 src = "src"
 title = "Libro OpenVE"
+
+[build]
+build-dir = "docs"
